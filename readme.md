@@ -107,6 +107,23 @@ Trader-Sentiment-Analysis/
 
 ---
 
+---
+
+## How to Run
+
+### Step 1: Clone repository
+
+git clone <your-github-repo-link>
+cd Trader-Sentiment-Analysis
+
+### Step 2: Install dependencies
+
+pip install -r requirements.txt
+
+### Step 3: Run notebook
+
+jupyter notebook Analysis.ipynb
+
 ## Tools & Technologies
 
 - Python
